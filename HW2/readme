@@ -1,0 +1,7 @@
+Implement a data structure that will be called Two-Phase Binary Search Tree (TPBST),
+in which each node of the main BST keeps a pointer to its own uniquely associated secondary BST. 
+The data is contained in the nodes of that secondary BST. The details of the structure is explained further in the pdf named hw2.
+
+This data structure will be used as the in-memory database of a stock photo webstore, where copyrighted photographs are sold.
+
+Keywords: Binary Search Tree, Stock Photo
