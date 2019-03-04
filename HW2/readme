@@ -1,4 +1,4 @@
-Implement a data structure that will be called Two-Phase Binary Search Tree (TPBST),
+Implementation of a data structure that will be called Two-Phase Binary Search Tree (TPBST),
 in which each node of the main BST keeps a pointer to its own uniquely associated secondary BST. 
 The data is contained in the nodes of that secondary BST. The details of the structure is explained further in the pdf named hw2.
 
